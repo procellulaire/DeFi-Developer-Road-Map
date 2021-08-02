@@ -5,7 +5,8 @@
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) 
-  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base) [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base) [![Checked by - Immunefi](https://img.shields.io/static/v1?label=Checked+by&message=Immunefi&color=FF33DA&logo=https%3A%2F%2Fibb.co%2FXJGmndf&logoColor=Black)](https://immunefi.com)
+       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
 
 
 
@@ -86,6 +87,7 @@
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
+- [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
 #### Others
 
@@ -140,6 +142,7 @@
 - [Language Solidity](https://atom.io/packages/language-solidity) 
 - [Vim solidity](https://github.com/tomlion/vim-solidity) 
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) 
+- [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 
 
  #### Practice
@@ -154,6 +157,8 @@
 - [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 - [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) - A compilation of the worst patterns.
+- [ETH.build](https://eth.build/) An Educational Sandbox For Web3
+
 
 
 # ZK-SNARKs
@@ -394,6 +399,9 @@
 
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
+- [SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/abs/2106.00667) - A paper on secure smart contract designs decisions and front-running possibilities on DApps.
+
+- [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
 
 #### DeFI
 
@@ -853,6 +861,7 @@
 - [Solidus Labs](https://www.soliduslabs.com)
 - [TRM Labs](https://trmlabs.com)
 - [Halborn Forensic](https://halborn.com)
+- [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
 
 
 ## Support Project:
