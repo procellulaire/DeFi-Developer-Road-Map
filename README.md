@@ -1,6 +1,6 @@
 # DeFi Developer Road Map
 
-**Here we collect and discuss the best DeFI & Blockchain researches and tools - contributions are welcome.**
+**Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
@@ -54,11 +54,13 @@
 - Elliptic Curve [Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 #### Ethereum
 
 - Learn the basics of Ethereum
-- Ethereum Virtual Machine (EVM): turing completeLearn about Wallets, Accounts (EOA), Private/Public Keys
+- Ethereum Virtual Machine (EVM): turing complete
+- Learn about Wallets, Accounts (EOA), Private/Public Keys
 - Learn about transactions, Gas, Metamask
 - Ethereum clients/Nodes, Geth
 - Infura infrastructure
@@ -77,6 +79,7 @@
 - Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 - Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) and watch [this channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 - Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
+- Read [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
 
 #### Smart Contract Standards
 
@@ -86,6 +89,7 @@
 
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
+- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Token standard for semi-fungible tokens
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
 - [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
@@ -226,6 +230,7 @@
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Web3j](https://docs.web3j.io/latest/)
+- [ethers.js](https://docs.ethers.io/v5/)
 
 #### Python Ethereum Eco System
 
@@ -286,7 +291,7 @@
 - [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
 - [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
 - [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
-
+- [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
 
 # Further Readings
 
@@ -312,8 +317,22 @@
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Tudelft Repo](https://repository.tudelft.nl)
 - [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md)
+- [Eth Reentrancy Attack Patterns](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)
+- [Plugin for testing smart contracts](https://github.com/meherett/pytest-eth)
+- [Solidity function profiler](https://github.com/EricR/sol-function-profiler)
+- [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
+- [DeFi security list](https://github.com/freight-chain/defi-sec)
+- [DeFi Threats Base](https://github.com/freight-trust/defi-threat)
+- [Hacking](https://github.com/geekshiv/Smart-Contract-Hacking)
+- [Secureum Bootcamp](https://hackmd.io/@secureum/bootcamp-epoch0-announcement)
+- [SCSVS](https://github.com/securing/SCSVS)
+- [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
+- [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
+
 
 #### Security & Safety:
+
+- [Blockchain Security Roadmap](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - This article will be laying down a path/roadmap, following which users will easily enter into the field of Blockchain Security together. 
 
 - [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
 
@@ -405,6 +424,7 @@
 
 #### DeFI
 
+- [Finematics](https://www.youtube.com/c/Finematics/featured) - Educational videos on DeFi
 
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
@@ -579,7 +599,7 @@
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
 
-#### Disucssion
+#### Discucssion
 
 - [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
 
@@ -625,6 +645,7 @@
 - [Sol-tester](https://github.com/androlo/sol-tester) 
 - [Solidity-coverage](https://github.com/sc-forks/solidity-coverage) 
 - [TypeChain](https://github.com/ethereum-ts/TypeChain) 
+- [Tenderly](https://tenderly.co/)
 
 
 #### Libraries
@@ -659,6 +680,7 @@
 - [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
+- [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
    
 
 #### Upgradeability
@@ -777,6 +799,7 @@
 - [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 - [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
 - [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
+- [Fleek](https://fleek.co/) - similar to netlify but uses ipfs for hosting websites.
 
 #### Bootstrap/Out-of-Box tools
 
@@ -862,11 +885,11 @@
 - [TRM Labs](https://trmlabs.com)
 - [Halborn Forensic](https://halborn.com)
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
+- [GLP](https://glprotocol.com/)
+
 
 
 ## Support Project:
-
-[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
 
 Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
 
