@@ -511,6 +511,8 @@
 
 - [NFTS TOP]( https://cryptoslam.io) - NFT Ranking.
 
+- [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf)
+
 
 #### Stable-Coins:
 
@@ -870,7 +872,6 @@
 
 #### Transaction Visualization, Scoring & Tracking:
 
-- [C-Hound](http://c-hound.ai) 
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
 - [GraphSense](http://graphsense.info) 
@@ -895,6 +896,9 @@
 - [Halborn Forensic](https://halborn.com)
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
 - [GLP](https://glprotocol.com/)
+- [BreadCrumbs](https://www.breadcrumbs.app)
+- [Tenderly](https://tenderly.co/)
+- [Dune](https://dune.xyz/)
 
 
 
