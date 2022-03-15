@@ -15,7 +15,7 @@
 
 ## 로드맵
 
-![Roadmap](./DeFiDevRroadMap_-Page-1.svg)
+![Roadmap](../DeFiDevRroadMap_-4-Page-1.svg)
 
 # Navigation
 
@@ -805,7 +805,7 @@
 
 **0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH
 
-**32kToCep8CiSS1mLAYE763xBbZaeoHtFgi** — BTC
+**17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU** - BTC
 
 ## 한글화 날짜
 

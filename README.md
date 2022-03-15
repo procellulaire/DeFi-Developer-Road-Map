@@ -5,7 +5,7 @@
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) 
-  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base) [![Checked by - Immunefi](https://img.shields.io/static/v1?label=Checked+by&message=Immunefi&color=FF33DA&logo=https%3A%2F%2Fibb.co%2FXJGmndf&logoColor=Black)](https://immunefi.com)
+  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
        [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
 
 
@@ -22,7 +22,7 @@
 
 ## Roadmap
 
-![Roadmap](./DeFiDevRroadMap_-4-Page-1.svg)
+![Roadmap](./DeFiRoadMapNewSVG.svg)
 
 # Navigation
 
@@ -44,6 +44,7 @@
 | Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
 | ETH 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
 | Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+| Project Manag.   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
 
 # Basics:
@@ -55,6 +56,7 @@
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
 - Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- Learn the basics of [Computer Science](https://github.com/ossu/computer-science)
 
 #### Ethereum
 
@@ -73,7 +75,7 @@
 - Ethereum Higher Level languages (**Solidity**, Vyper, LLL, Serpent)
 - Compiling, testing, Deploying smart Contracts
 - Interacting with smart contracts using web3.js or web3.py
-- Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+- Read [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=The%20Ethereum%20blockchain%20uses%20an,tokens%20are%20generated%20and%20awarded.)
 - Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 - Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
@@ -232,6 +234,9 @@
 - [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
 - [Ether Jar](https://github.com/emeraldpay/etherjar) Java integration library for Ethereum blockchain
 - [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
+- [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe)- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
+- [Foundry](https://github.com/onbjerg/foundry-book) - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
+- [Solmate](https://github.com/Rari-Capital/solmate) - These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development
 
 #### Interacting with Smart Contract
 
@@ -272,6 +277,7 @@
 - [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten, Rinkeby)
 - [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
+- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 #### Test Ether Faucets
 
@@ -301,6 +307,11 @@
 - [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
 - [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
 - [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
+
+# Project management
+
+- [Dework](https://dework.xyz/) | Web3 Trello with token payments, credentials, bounties...
+- [Wonderverse](https://www.wonderverse.xyz/) | Jira alternative with an intuitive task management system that allows DAOs to pay contributors and collaborate in their projects.
 
 # Further Readings
 
@@ -337,6 +348,8 @@
 - [SCSVS](https://github.com/securing/SCSVS)
 - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
 - [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
+- [Builder List](https://based.builders)
+- [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero)
 
 
 #### Security & Safety:
@@ -430,6 +443,36 @@
 - [SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/abs/2106.00667) - A paper on secure smart contract designs decisions and front-running possibilities on DApps.
 
 - [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
+
+##### Web2 cybersecurity
+
+- [TryHackMe: Complete rooms with challenges and puzzles to break, all from the browser](https://tryhackme.com/welcome) - Hands on cybersecurity training with real-world tasks
+
+- [Disclose: Cross-industry and vendor-agnostic standards for best practives in cybersecurity research](https://disclose.io/) - Open source maintainers and industry experts providing a central source for assistance, information, and help via templates, tools, data sets...
+
+- [Hack The Box](https://www.hackthebox.com/) - A Hacker's playground to dynamically and compete against other users in a collaborative ecosystem that promotes hands-on training experience
+
+- [OverTheWire](https://overthewire.org/wargames/) - Set of wargames and challenges offered by a community to learn and practice security concepts in fun wargames.
+
+- [Pentesterlab](https://pentesterlab.com/) - Hands-on labs covering different bu classes from basic to advanced.
+
+- [Portswigger labs](https://portswigger.net/web-security/all-labs) - Set of web application secrity labs with attached community solutions
+
+- [Vulnhub](https://www.vulnhub.com/) - Users upload "challenge boxes" that often attempt to gain root access by exploiting known vulnerabilities.
+
+##### Web3 cybersecurity
+
+- [Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/) - A collection of Web3 wargamees inspired by [OverTheWire](https://overthewire.org/) in the context of the Ethereum Virtual Machine (EVM). Each level is a smart contract that needs to be hacked.
+
+- [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) - An offensive security playground to learn red team cybersecurity in the context of DeFi and smart contracts. Examples include tasks where the users needs to stop the system from working, take out funds from a contract...
+
+- [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - Same as Damn Vulnerable DeFi but in the context of the foundry development framework.
+
+##### Web3 CTF (Capture The Flag)
+
+- [Capture the Ether](https://capturetheether.com/) - Traditional game consisting of a series of categorized challenges where the user earns points after every succesful challenge. The goal is to make the `isComplete()` function return true. 
+
+- [Paradigm CTF](https://ctf.paradigm.xyz/)
 
 #### DeFI
 
@@ -566,6 +609,13 @@
 - [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
 
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
+
+#### Special Author's compilations:
+
+- [All-about-NFT security](https://graph.org/NFT-security-01-28) 
+- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
+- [All good TG Dev communities](https://graph.org/Thread-02-19)
+- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
 
 
 #### Side-Chains
@@ -796,6 +846,7 @@
 - [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 - [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 - [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
+- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 
 #### Storage
@@ -872,10 +923,12 @@
 
 #### Transaction Visualization, Scoring & Tracking:
 
+| Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
+
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
 - [GraphSense](http://graphsense.info) 
-- [AML Bot](https://amlbot.com) 
+- [AML Bot Investigation Regime](https://amlbot.com) 
 - [Bank Verified](https://bitrankverified.com/home) 
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
@@ -899,7 +952,7 @@
 - [BreadCrumbs](https://www.breadcrumbs.app)
 - [Tenderly](https://tenderly.co/)
 - [Dune](https://dune.xyz/)
-
+- [ETH Detective](https://www.ethtective.com/)
 
 
 ## Support Project:
@@ -909,6 +962,8 @@ Support is **very** important to me, with it I can spend less time at work and d
 If you want to support my work, you can send me a donation to the address:
 
 **0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)
+
+**17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU** - BTC
 
 ##
 
