@@ -616,6 +616,7 @@
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [All good TG Dev communities](https://graph.org/Thread-02-19)
 - [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
+- [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 
 
 #### Side-Chains
@@ -803,6 +804,7 @@
 - [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
 - [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts. 
+- [Jolly Roger](https://jolly-roger.eth.link/) - dApp framework using ethereum, buidler, svelte and thegraph
 - [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
 
 #### Backend Ethereum APIs
