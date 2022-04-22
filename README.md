@@ -26,6 +26,9 @@
 
 # Navigation
 
+ **[Alternative navigation](https://start.me/p/QRg5ad/officercia)** ❗️
+
+
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
 | Basics           | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
@@ -176,6 +179,7 @@
 
 #### General info
 
+- [zkp.science](https://zkp.science) - All you should know about ZK-SNARKs
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 - [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
 - [Nightfall](https://github.com/EYBlockchain/nightfall) - Make any ERC-20 / ERC-721 token private - open source tools & microservices
@@ -260,6 +264,7 @@
 
 #### Test Blockchain Networks
 
+- [Paradigm Faucet](https://faucet.paradigm.xyz) - claim testnet ETH here
 - [Ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 - [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 - [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
@@ -353,6 +358,13 @@
 
 
 #### Security & Safety:
+
+**|** Read 3 awesome cheatsheets: 
+- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31), 
+- [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13), 
+- [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20) and 
+- [All about NFT security](https://graph.org/NFT-security-01-28)
+#
 
 - [Blockchain Security Roadmap](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - This article will be laying down a path/roadmap, following which users will easily enter into the field of Blockchain Security together. 
 
@@ -614,9 +626,11 @@
 
 - [All-about-NFT security](https://graph.org/NFT-security-01-28) 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities](https://graph.org/Thread-02-19)
+- [All good TG Dev communities](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
 - [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
 - [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
 
 
 #### Side-Chains
@@ -631,6 +645,8 @@
 
 #### EIP - 1559
 
+- [EIP1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq) - EIP1559 FAQ
+
 - [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/pdf/2102.10567.pdf)- Authors perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems.
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
@@ -640,7 +656,8 @@
 
 #### Ethereum 2.0
 
-
+- [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
+- [Specification](https://github.com/ethereum/annotated-spec)
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
 - [Ethereum 2.0 Stats](https://eth2stats.io/)
@@ -678,6 +695,7 @@
 
 #### Ethereum Tools
 
+- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
 - [ETH Forks](https://forkmon.ethdevops.io) 
 - [Node Stats](https://ethernodes.org)
