@@ -14,9 +14,10 @@
 <summary>Translations</summary>
 <br />
 
+- [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-  
+
 </details>
 
 
@@ -233,6 +234,11 @@
 - [Kovan TestNet End Point](https://infura.io/)
 - [Rinkby TestNet End Point](https://infura.io/)
 - [IPFS](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
+
+#### [NodeReal](https://nodereal.io)(A high-performance node service)
+
+- [Meganode](https://meganode.nodereal.io)
+- [DirectRoute](https://directroute.nodereal.io)
 
 #### Other Frameworks
 
@@ -654,7 +660,7 @@
 - [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
 - [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
 - [Loom Network](https://github.com/loomnetwork)
-- [Matic Network](https://docs.matic.network/)
+- [Polygon Network](https://docs.polygon.technology/)
 
 
 #### EIP - 1559
@@ -775,7 +781,7 @@
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
 - [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
-   
+  
 
 #### Upgradeability
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
@@ -995,9 +1001,9 @@ Support is **very** important to me, with it I can spend less time at work and d
 
 If you want to support my work, you can send me a donation to the address:
 
-**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
-**17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU** - BTC
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
 
 ##
 
