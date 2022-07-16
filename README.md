@@ -214,6 +214,10 @@
 - [Ganache](https://truffleframework.com/ganache)
 - [Drizzle](https://truffleframework.com/drizzle)
 
+#### Akula
+
+- [Akula](https://github.com/akula-bft/akula) - an implementation of Ethereum protocol ("client") written in Rust, based on [Erigon](https://github.com/ledgerwatch/interfaces) architecture.
+
 
 #### ZeppelinOS
 
@@ -274,6 +278,7 @@
 
 #### Distributed Storage Systems
 
+- [Arweave](https://arweave.org)
 - [INFO](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
 - [IPFS](https://ipfs.io/)
 - [MESON](https://meson.network/)
@@ -871,19 +876,14 @@
 - [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 - [Geth](https://geth.ethereum.org/docs/) - Go client
 - [Erigon](https://github.com/ledgerwatch/erigon) - a mostly Go implementation of Ethereum client built on the efficiency frontier
-- [OpenEthereum](https://github.com/openethereum/openethereum) - Rust client, formerly called Parity. On path to deprecation in favor of Erigon.
-- [Aleth](https://github.com/ethereum/aleth) - C++ client
+- [Akula](https://github.com/akula-bft/akula) - Rust implementation
 - [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
 - [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
 - [Trinity](https://trinity.ethereum.org/) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 - [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
 - [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
-- [Mustekala](https://github.com/musteka-la/mustekala) - Ethereum Light Client project of Metamask
-- [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
-- [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
 - [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
 - [Awesome Quorum](https://github.com/ConsenSys/awesome-quorum) - A curated list of awesome softwares, libraries, tools and more to build on ConsenSys Quorum.
-- [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 - [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 - [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
@@ -938,7 +938,6 @@
 
 # Testing Tools
 
-- [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
 - [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
 - [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
 - [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
@@ -1004,6 +1003,21 @@ If you want to support my work, you can send me a donation to the address:
 - **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
+
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
+
+- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
+
+- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC 
+
+- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
+
+- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
+
+- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
+
+
+[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
 ##
 
